@@ -1,4 +1,4 @@
-# Tantangan Website UKM IK
+# Challenge Website UKM IK
 
 Tantangan ini meliputi penyelesaian tugas pembuatan website dasar organisasi UKM Informatika & Komputer. File HTML yang disediakan mencakup placeholder yang ditandai dengan komentar TODO. Tugas Anda adalah mengisi placeholder ini dan menyelesaikan tugas berikut:
 
